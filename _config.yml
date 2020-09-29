@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "PhD student in AI"
 title_separator          : "-"
-name                     : &name "Sebastien de Blois"
+name                     : &name "Sébastien de Blois"
 description              : &description "personal website"
 url                      : https://scienceseb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
