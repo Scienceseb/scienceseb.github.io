@@ -3,7 +3,7 @@ title: "Learning of Image Dehazing Models for Segmentation Tasks"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'To evaluate their performance, existing dehazing approaches generally rely on distance measures between the generated image and its corresponding ground truth. Despite its ability to produce visually good images, using pixel-based or even perceptual metrics do not guarantee, in general, that the produced image is fit for being used as input for low-level computer vision tasks such as segmentation. To overcome this weakness, we are proposing a novel end-to-end approach for image dehazing, fit for being used as input to an image segmentation procedure, while maintaining the visual quality of the generated images. Inspired by the success of Generative Adversarial Networks (GAN), we propose to optimize the generator by introducing a discriminator network and a loss function that evaluates segmentation quality of dehazed images. In addition, we make use of a supplementary loss function that verifies that the visual and the perceptual quality of the generated image are preserved in hazy conditions. Results obtained using the proposed technique are appealing, with a favorable comparison to state-of-the-art approaches when considering the performance of segmentation algorithms on the hazy images.'
-date: 2019
+date: 2019-09-01
 venue: 'Eusipco 2019'
 paperurl: 'https://arxiv.org/pdf/1903.01530.pdf'
 citation: 'de Blois, S., Hedhli, I. and Gagné, C., Learning of Image Dehazing Models for Segmentation Tasks.; <i>Eusipco 2019</i>. 1(1).'
