@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.Ing. in Mning Engineering, Université Laval, 2018
+* B.Ing. in Mining Engineering, Université Laval, 2018
 * M.Sc. in Electrical Engineering (AI), Université Laval, 2020
 * Ph.D. in Electrical Engineering (AI), Université Laval, 2024 (expected)
 
